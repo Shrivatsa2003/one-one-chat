@@ -42,16 +42,16 @@ npm start
 cd ../client
 npm start
 ```
-## usage
+## Usage
 Navigate to http://localhost:3000 in your web browser to access the Spot Chat application. Register or log in using your credentials, set your avatar, and start chatting with other users.
 
-## features
+## Features
 User Registration and Login
 Avatar Image Setting
 Real-time Chatting with Other Users
 Feel free to explore and contribute to the project! If you'd like to contribute, please follow the guidelines in the Contributing section.
 
-## contributing
+## Contributing
 If you want to contribute to Spot Chat, please follow these guidelines:
 
 Fork the repository
@@ -60,5 +60,5 @@ Make your changes
 Test your changes
 Submit a pull request
 
-## license
+## License
 This project is licensed under the KC License.
