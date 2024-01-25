@@ -3,7 +3,7 @@
 Spot Chat is a web application made with React, Node.js, and MySQL. It provides a registration and login system where users can register and log in using their username, email, and password. Users can also set an avatar image corresponding to their profile.
 
 ![image](https://github.com/Shrivatsa2003/one-one-chat-app/assets/97290913/cb4e6c55-2ac7-4a5f-9304-6e3e492c04ca)
-![image](https://github.com/Shrivatsa2003/one-one-chat-app/assets/97290913/d8813e6d-ec5a-4f92-b29a-f8f3ec475db9):wq
+![image](https://github.com/Shrivatsa2003/one-one-chat-app/assets/97290913/d8813e6d-ec5a-4f92-b29a-f8f3ec475db9)
 
 ## Table of Contents
 
@@ -41,5 +41,24 @@ npm start
 # Start the client
 cd ../client
 npm start
+```
+## usage
+Navigate to http://localhost:3000 in your web browser to access the Spot Chat application. Register or log in using your credentials, set your avatar, and start chatting with other users.
 
+## features
+User Registration and Login
+Avatar Image Setting
+Real-time Chatting with Other Users
+Feel free to explore and contribute to the project! If you'd like to contribute, please follow the guidelines in the Contributing section.
 
+## contributing
+If you want to contribute to Spot Chat, please follow these guidelines:
+
+Fork the repository
+Create a new branch for your feature or bug fix
+Make your changes
+Test your changes
+Submit a pull request
+
+## license
+This project is licensed under the KC License.
