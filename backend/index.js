@@ -12,8 +12,8 @@ app.use('/api/auth',userRoutes)
 app.use("/api/messages", messageRoutes);
 
 
-const server = app.listen(8801,()=>{
-    console.log(`app is listening to 8801`);
+const server = app.listen(process.env.PORT,()=>{
+    console.log(`app is listening to ${process.env.PORT}`);
 })
 
 const io = socket(server,{
