@@ -4,6 +4,8 @@ Spot Chat is a web application made with React, Node.js, and MySQL. It provides 
 
 ![image](https://github.com/Shrivatsa2003/one-one-chat-app/assets/97290913/cb4e6c55-2ac7-4a5f-9304-6e3e492c04ca)
 ![image](https://github.com/Shrivatsa2003/one-one-chat-app/assets/97290913/d8813e6d-ec5a-4f92-b29a-f8f3ec475db9)
+![image](https://github.com/Shrivatsa2003/one-one-chat/assets/97290913/58f27926-a8cc-4382-beb7-76946a0ad865)
+
 
 ## Table of Contents
 
